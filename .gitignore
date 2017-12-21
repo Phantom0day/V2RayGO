@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+# Android Studio project
+local.properties
+/build
+
+# IntelliJ project files
+/.idea
+/.gradle
+*.iml
+out
+gen
